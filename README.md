@@ -30,7 +30,6 @@ I am continuously enhancing my skills and am currently focused on the following:
 
 - **Advanced Python** for data science and AI applications
 - **Machine Learning** techniques and algorithms
-- **Deep Learning** frameworks like TensorFlow and PyTorch
 - **Mobile Development** with a focus on Android app development
 - **Web Development** with modern JavaScript frameworks and WordPress full-stack development
 
@@ -45,9 +44,9 @@ Check out my [repositories](https://github.com/DevRay?tab=repositories) for more
 🎓 - **Contributor to MindsDB**
 MindsDB is a platform for building AI from enterprise data. With MindsDB, you can deploy, serve, and fine-tune models in real-time, utilizing data from databases, vector stores, or applications to build AI-powered apps using universal tools developers already know.
 
-MindsDB integrates with numerous data sources and popular AI/ML frameworks, including AutoML and LLMs. It connects data sources with AI/ML frameworks and automates routine workflows between them, bringing data and AI together for intuitive implementation of customized AI systems.
+MindsDB integrates with numerous data sources and popular AI/ML frameworks, including AutoML and LLMs. It connects data sources with AI/ML frameworks and automates routine workflows between them, bringing data and AI together for the intuitive implementation of customized AI systems.
 
-To get started, you can install MindsDB locally via Docker or Docker Desktop. MindsDB enhances SQL syntax to enable seamless development and deployment of AI-powered applications. Users can interact with MindsDB not only via SQL API but also via REST APIs, Python SDK, JavaScript SDK, and MongoDB-QL.
+You can install MindsDB locally via Docker or Docker Desktop to get started. MindsDB enhances SQL syntax to enable seamless development and deployment of AI-powered applications. Users can interact with MindsDB not only via SQL API but also via REST APIs, Python SDK, JavaScript SDK, and MongoDB-QL.
 
 Learn more about the features and use cases of MindsDB here.
 
@@ -68,14 +67,15 @@ Learn more about the features and use cases of MindsDB here.
 ### 🎨 Fun Facts
 
 - I am a coffee enthusiast ☕ and love exploring new cafes.
-- I enjoy solving puzzles and playing chess during my free time.
-- I am a fitness buff and often combine coding with my workout sessions!
+- I enjoy traveling, driving, cycling, and a good game of pool (billiards).
+- Podcasting and Livestreaming smiles at me.
 
 ### 🔗 Let's Connect!
 
 I am always open to collaborating on projects, learning new skills, or just having a good conversation about tech and innovation. Feel free to reach out!
 
 !DEVRAY GitHub Banner
+
 
 
 
