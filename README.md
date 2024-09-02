@@ -1,82 +1,49 @@
-## Hi there, I'm DevRay! 👋
+<h1 align="center">Hi 👋, I'm Ray Klanderman A.K.A DevRay</h1> <h3 align="center">Full-time DEV | AI & ML Enthusiast | WordPress & Android Developer</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayklanderman&label=Profile%20views&color=0e75b6&style=flat" alt="rayklanderman" /> </p> <p align="left"> <a href="https://twitter.com/rayklanderman" target="blank"> <img src="https://img.shields.io/twitter/follow/rayklanderman?logo=twitter&style=for-the-badge" alt="rayklanderman" /> </a> </p>
+🚀 About Me
+I am an AI, software development, and machine learning enthusiast currently expanding my knowledge and skills in software engineering at @PLPAfrica. I am passionate about creating innovative solutions and leveraging technology to solve real-world challenges. My work spans multiple domains, including full-stack WordPress development and Android app development.
 
-### 🚀 About Me
+🛠️ Technical Skills
+Programming Languages:
 
-I am an **AI, software development, and machine learning enthusiast** currently expanding my knowledge and skills in **software engineering** at [@PLPAfrica](https://plpafrica.com). I am passionate about creating innovative solutions and leveraging technology to solve real-world challenges. My work spans multiple domains, including **full-stack WordPress development** and **Android app development**.
 
-### 🛠️ Technical Skills
+Technologies & Frameworks:
 
-- **Programming Languages:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **Technologies & Frameworks:**  
-  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+Databases:
 
-- **Databases:**  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌱 Currently Learning
-
+🌱 Currently Learning
 I am continuously enhancing my skills and am currently focused on the following:
 
-- **Advanced Python** for data science and AI applications
-- **Machine Learning** techniques and algorithms
-- **Mobile Development** with a focus on Android app development
-- **Web Development** with modern JavaScript frameworks and WordPress full-stack development
-
-### 🖥️ Projects & Contributions
-
-- **Kenyanese**: Developed a social media networking site called [Kenyanese](https://kenyanese.online), leveraging the power of WordPress and custom plugins to create a dynamic, engaging user experience.
-- **AI Chatbot**: Developed an AI-powered chatbot using Python and Natural Language Processing (NLP) techniques.
-- **Data Visualization Tool**: Created an interactive data visualization tool using JavaScript and D3.js to analyze and present large datasets.
-
-Check out my [repositories](https://github.com/DevRay?tab=repositories) for more!
-
-🎓 - **Contributor to MindsDB**
-MindsDB is a platform for building AI from enterprise data. With MindsDB, you can deploy, serve, and fine-tune models in real-time, utilizing data from databases, vector stores, or applications to build AI-powered apps using universal tools developers already know.
-
-MindsDB integrates with numerous data sources and popular AI/ML frameworks, including AutoML and LLMs. It connects data sources with AI/ML frameworks and automates routine workflows between them, bringing data and AI together for the intuitive implementation of customized AI systems.
-
-You can install MindsDB locally via Docker or Docker Desktop to get started. MindsDB enhances SQL syntax to enable seamless development and deployment of AI-powered applications. Users can interact with MindsDB not only via SQL API but also via REST APIs, Python SDK, JavaScript SDK, and MongoDB-QL.
-
-Learn more about the features and use cases of MindsDB here.
-
-### 📫 How to Reach Me
-
-- [LinkedIn](https://https://www.linkedin.com/in/raymondklanderman/)
-- [Twitter](https://x.com/rayklanderman)
-- [Telegram](https://t.me/Algorithmizer)
-- [Email](mailto:r.k@mail.com)
-
-### 🏆 Certifications & Achievements
-
-- **Google Data Analytics Professional Certificate**
-- **Code In Place, Python Language by Stanford University**
-- **Python for Everybody Specialization**
-
-
-### 🎨 Fun Facts
-
-- I am a coffee enthusiast ☕ and love exploring new cafes.
-- I enjoy traveling, driving, cycling, and a good game of pool (billiards).
-- Podcasting and Livestreaming smiles at me.
-
-### 🔗 Let's Connect!
-
+Advanced Python for data science and AI applications
+Machine Learning techniques and algorithms
+Mobile Development with a focus on Android app development
+Web Development with modern JavaScript frameworks and WordPress full-stack development
+🖥️ Projects & Contributions
+Kenyanese: Developed a social media networking site called Kenyanese, leveraging the power of WordPress and custom plugins to create a dynamic, engaging user experience.
+AI Chatbot: Developed an AI-powered chatbot using Python and Natural Language Processing (NLP) techniques.
+Data Visualization Tool: Created an interactive data visualization tool using JavaScript and D3.js to analyze and present large datasets.
+🎓 Contributor to MindsDB: Contributed to MindsDB, a platform for building AI from enterprise data, and connecting data sources with AI/ML frameworks.
+🏆 Certifications & Achievements
+Google Data Analytics Professional Certificate
+Code In Place, Python Language by Stanford University
+Python for Everybody Specialization
+📫 How to Reach Me
+Email: dev.ray@techie.com
+LinkedIn
+Twitter
+Telegram
+Dev.to
+Kaggle
+YouTube
+🎨 Fun Facts
+I am a coffee enthusiast ☕ and love exploring new cafes.
+I enjoy traveling, driving, cycling, and a good game of pool (billiards).
+Podcasting and Livestreaming smiles at me.
+🔗 Let's Connect!
 I am always open to collaborating on projects, learning new skills, or just having a good conversation about tech and innovation. Feel free to reach out!
 
-!DEVRAY GitHub Banner
-
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayklanderman&show_icons=true&locale=en&layout=compact" alt="rayklanderman" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayklanderman&" alt="rayklanderman" /> </p>
 
 
 
