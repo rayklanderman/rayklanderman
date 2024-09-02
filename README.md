@@ -75,7 +75,8 @@ Learn more about the features and use cases of MindsDB here.
 
 I am always open to collaborating on projects, learning new skills, or just having a good conversation about tech and innovation. Feel free to reach out!
 
-![DevRay's Banner](https://user-images.githubusercontent.com/DevRay/banner.png)
+!DEVRAY GitHub Banner
+
 
 
 
