@@ -42,9 +42,7 @@ I am continuously enhancing my skills and am currently focused on the following:
 
 Check out my [repositories](https://github.com/DevRay?tab=repositories) for more!
 
-🎓 Contributor to MindsDB
-I am a contributor to MindsDB.
-
+🎓 - **Contributor to MindsDB**
 MindsDB is a platform for building AI from enterprise data. With MindsDB, you can deploy, serve, and fine-tune models in real-time, utilizing data from databases, vector stores, or applications to build AI-powered apps using universal tools developers already know.
 
 MindsDB integrates with numerous data sources and popular AI/ML frameworks, including AutoML and LLMs. It connects data sources with AI/ML frameworks and automates routine workflows between them, bringing data and AI together for intuitive implementation of customized AI systems.
@@ -65,12 +63,6 @@ Learn more about the features and use cases of MindsDB here.
 - **Google Data Analytics Professional Certificate**
 - **Code In Place, Python Language by Stanford University**
 - **Python for Everybody Specialization**
-
-### 📊 GitHub Stats
-
-![DevRay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevRay&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRay&layout=compact&theme=radical)
 
 
 ### 🎨 Fun Facts
