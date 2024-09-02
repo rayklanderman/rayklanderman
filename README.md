@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I am an **AI, software development, and machine learning enthusiast** currently expanding my knowledge and skills in **software engineering** at [@PLPAfrica](https://plpafrica.com). I am passionate about creating innovative solutions and leveraging technology to solve real-world challenges. My work spans across multiple domains, including **full-stack WordPress development** and **Android app development**.
+I am an **AI, software development, and machine learning enthusiast** currently expanding my knowledge and skills in **software engineering** at [@PLPAfrica](https://plpafrica.com). I am passionate about creating innovative solutions and leveraging technology to solve real-world challenges. My work spans multiple domains, including **full-stack WordPress development** and **Android app development**.
 
 ### 🛠️ Technical Skills
 
@@ -76,6 +76,7 @@ Learn more about the features and use cases of MindsDB here.
 I am always open to collaborating on projects, learning new skills, or just having a good conversation about tech and innovation. Feel free to reach out!
 
 !DEVRAY GitHub Banner
+
 
 
 
