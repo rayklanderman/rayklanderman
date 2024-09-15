@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I am an **AI, software development, and machine learning enthusiast** currently expanding my knowledge and skills in **software engineering** at [@PLPAfrica](https://plpafrica.com). I am passionate about creating innovative solutions and leveraging technology to solve real-world challenges. My work spans multiple domains, including **full-stack WordPress development** and **Android app development**.
+HELLO, I am currently expanding my knowledge and skills in **software engineering** at [@PLPAfrica](https://plpafrica.com). I am passionate about creating innovative solutions and leveraging technology to solve real-world challenges. My work spans multiple domains, including **full-stack WordPress dev** and **Android app dev**.
 
 ### 🛠️ Technical Skills
 
@@ -46,10 +46,10 @@ I am continuously enhancing my skills and am currently focused on the following:
 
 ### 🖥️ Projects & Contributions
 
-- **Kenyanese**: Developed a social media networking site called [Kenyanese](https://kenyanese.online), leveraging the power of WordPress and custom plugins to create a dynamic, engaging user experience.
-- **AI Chatbot**: Developed an AI-powered chatbot using Python and Natural Language Processing (NLP) techniques.
-- **Data Visualization Tool**: Created an interactive data visualization tool using JavaScript and D3.js to analyze and present large datasets.
-- 🎓 **Contributor to MindsDB**: Contributed to MindsDB, a platform for building AI from enterprise data, and connecting data sources with AI/ML frameworks.
+- **Kenyanese**: Social media networking site.
+- **AI Chatbot**: AI-powered chatbot using Python and Natural Language Processing (NLP) techniques.
+- **Data Visualization Tool**: Data visualization tool using JavaScript and D3.js to analyze and present large datasets.
+- 🎓 **Contributor to MindsDB**: MindsDB, a platform for building AI from enterprise data, and connecting data sources with AI/ML frameworks.
 
 ### 🏆 Certifications & Achievements
 
@@ -69,13 +69,13 @@ I am continuously enhancing my skills and am currently focused on the following:
 
 ### 🎨 Fun Facts
 
-- I am a coffee enthusiast ☕ and love exploring new cafes.
-- I enjoy traveling, driving, cycling, and a good game of pool (billiards).
+- Love Coffee ☕.
+- Traveling, driving, cycling, and a good game of pool (billiards).
 - Podcasting and Livestreaming smiles at me.
 
 ### 🔗 Let's Connect!
 
-I am always open to collaborating on projects, learning new skills, or just having a good conversation about tech and innovation. Feel free to reach out!
+Open to collaborating on projects, learning new skills, or just having a good conversation about tech and innovation. Feel free to reach out!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayklanderman&show_icons=true&locale=en&layout=compact" alt="rayklanderman" />
