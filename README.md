@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ray Klanderman A.K.A DevRay</h1>
+<h1 align="center">Hi 👋, I'm R.K A.K.A DevRay</h1>
 <h3 align="center">Full-time DEV | AI + ML | WordPress + Android Dev</h3>
 
 <p align="left"> 
