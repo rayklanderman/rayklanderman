@@ -66,7 +66,7 @@ I am continuously enhancing my skills and am currently focused on the following:
 - [Twitter](https://twitter.com/rayklanderman)
 - [Telegram](https://t.me/Algorithmizer)
 - [Dev.to](https://dev.to/rayklanderman)
-- [Kaggle](https://kaggle.com/raymondklanderman)
+- [Kaggle](https://www.kaggle.com/devrayrob)
 - [YouTube](https://www.youtube.com/c/@thealgorithmizer)
 
 ### 🎨 Fun Facts
