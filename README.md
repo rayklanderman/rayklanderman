@@ -83,7 +83,7 @@ I am continuously enhancing my skills and am currently focused on the following:
 
 - **Sauti Ya Wanainchi**  
   Digitalizing public participation in Kenya for county and national bills.  
-  [Explore here](https://civic-engagement-fabric-one.vercel.app/)  
+  [Explore here]()  
 
 - **AI Health Assistant**  
   An AI-powered chatbot for medical consultations.  
