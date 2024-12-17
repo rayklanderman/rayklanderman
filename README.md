@@ -87,7 +87,7 @@ I am continuously enhancing my skills and am currently focused on the following:
 
 - **AI Health Assistant**  
   An AI-powered chatbot for medical consultations.  
-  [Try it out here](https://ai-health-chat-jsdnxnwfc-teamdevray.vercel.app/)  
+  [Try it out here](https://ai-health-chat-teamdevray.vercel.app/)  
 
 - **Kenyanese**  
   A social media networking platform for community engagement.  
