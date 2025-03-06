@@ -17,8 +17,7 @@
 
 ### 🚀 About Me
 
-HELLO! I am currently expanding my knowledge and skills in **software engineering** at [@PLPAfrica](https://plpafrica.com).  
-I am passionate about creating innovative solutions and leveraging technology to solve real-world challenges.  
+As a passionate Software Developer, AI Engineer, and Cloud Enthusiast, I thrive on designing smart, scalable solutions that solve real-world challenges. My expertise spans full-stack development, AI integration, and cloud computing, empowering me to craft applications that are both innovative and impactful. Fueled by an insatiable curiosity, I’m always diving deeper into AI deployment and cloud technologies, eager to push the limits of what technology can achieve. 
 
 My work spans multiple domains, including **Full-stack Development**, **AI Engineering**, **Data Analytics**, **WordPress Development**, and **Android Development**.  
 I am always looking to collaborate on projects that leverage AI and uplift humanity.  
