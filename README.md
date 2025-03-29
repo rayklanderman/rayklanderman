@@ -13,7 +13,9 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=rayklanderman%20%2F%20rayklanderman&label=Folk&labelColor=%2337d67a&countColor=%23263759)
 
-[![streak](https://codeium.com/badges/v2/user/algorithmizer/streak)](https://codeium.com/profile/algorithmizer)
+https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white
+https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
 ---
 
 ### 🚀 About Me
