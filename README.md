@@ -13,9 +13,10 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=rayklanderman%20%2F%20rayklanderman&label=Folk&labelColor=%2337d67a&countColor=%23263759)
 
-https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
-https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
+![WakaTime Badge](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white) ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) 
+[![Gemini Developer](https://img.shields.io/badge/Gemini%20Developer-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)](https://developers.google.com/gemini) 
+[![xAI Developer](https://img.shields.io/badge/xAI%20Developer-000000?style=for-the-badge&logo=xai&logoColor=white)](https://x.ai/) 
+
 ---
 
 ### 🚀 About Me
