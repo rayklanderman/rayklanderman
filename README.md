@@ -13,6 +13,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=rayklanderman%20%2F%20rayklanderman&label=Folk&labelColor=%2337d67a&countColor=%23263759)
 
+[![streak](https://codeium.com/badges/v2/user/algorithmizer/streak)](https://codeium.com/profile/algorithmizer)
 ---
 
 ### 🚀 About Me
