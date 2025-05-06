@@ -124,7 +124,7 @@ I am always looking to collaborate on projects that leverage AI and uplift human
 ### 📫 Let's Connect
 
 - Twitter: [@rayklanderman](https://x.com/rayklanderman)
-- LinkedIn: [Raymond K. Landerman](https://www.linkedin.com/in/raymondklanderman/)
+- LinkedIn: [Raymond Klanderman](https://www.linkedin.com/in/raymondklanderman/)
 - Portfolio: [ray-klanderman-portfolio-teamdevray.vercel.app](https://ray-klanderman-portfolio-teamdevray.vercel.app/)
 
 ---
