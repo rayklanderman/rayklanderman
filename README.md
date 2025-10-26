@@ -1,133 +1,179 @@
-<h1 align="center">👋 Hi, I'm R K a.k.a DevRay</h1>
-<h3 align="center">Full-time DEV | AI + ML | Fullstack | Computer Vision </h3>
+<h1 align="center">👋 Hi, I'm R K (DevRay)</h1>  
+<h3 align="center">Full-time DEV | AI + ML | Fullstack | Computer Vision</h3>  
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rayklanderman&label=Profile%20views&color=0e75b6&style=flat" alt="rayklanderman" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://x.com/rayklanderman" target="blank">
     <img src="https://img.shields.io/twitter/follow/rayklanderman?logo=x&style=for-the-badge" alt="rayklanderman" />
   </a>
 </p>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=rayklanderman%20%2F%20rayklanderman&label=Folk&labelColor=%2337d67a&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=rayklanderman&label=Visitors&countColor=%23263759)  
 
-![WakaTime Badge](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)
-![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-[![Gemini Developer](https://img.shields.io/badge/Gemini%20Developer-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)](https://developers.google.com/gemini)
-[![xAI Developer](https://img.shields.io/badge/xAI%20Developer-000000?style=for-the-badge&logo=xai&logoColor=white)](https://x.ai/)
-[![OpenAI Developer](https://img.shields.io/badge/OpenAI%20Developer-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/)
-[![Anthropic Developer](https://img.shields.io/badge/Anthropic%20Developer-000000?style=for-the-badge&logoColor=white)](https://www.anthropic.com/)
-[![Manus AI Developer](https://img.shields.io/badge/Manus%20AI%20Developer-0096FF?style=for-the-badge&logoColor=white)](https://manus.ai/)
-[![Supabase Developer](https://img.shields.io/badge/Supabase%20Developer-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![xAI Developer](https://img.shields.io/badge/xAI%20Developer-000000?style=for-the-badge&logo=xai)](https://x.ai/) 
+[![Gemini Developer](https://img.shields.io/badge/Gemini%20Developer-4285F4?style=for-the-badge&logo=google-gemini)](https://developers.google.com/gemini) 
+[![OpenAI Developer](https://img.shields.io/badge/OpenAI%20Developer-412991?style=for-the-badge&logo=openai)](https://platform.openai.com/) 
+[![Supabase Developer](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)](https://supabase.com/) 
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me  
 
-As a passionate Software Developer, AI Engineer, and Cloud Enthusiast, I thrive on designing smart, scalable solutions that solve real-world challenges. My expertise spans full-stack development, AI integration, and cloud computing, empowering me to craft applications that are both innovative and impactful.
+I'm a **Software Engineer and AI Developer** passionate about building smart, scalable solutions that merge creativity with technology.  
+I specialize in **AI development**, **data analytics**, and **cloud computing**, and I’m deeply motivated by the potential of technology to uplift communities across Africa and beyond.  
 
-My work spans multiple domains, including **Full-stack Development**, **AI Engineering**, **Data Analytics**, **WordPress Development**, and **Android Development**.  
-I am always looking to collaborate on projects that leverage AI and uplift humanity.
-
----
-
-### 🧠 Featured Projects
-
-#### 🔹 [Kazi Connect](https://kazi-connect.vercel.app/)
-> Discover your next opportunity with **Kazi Connect** – a smarter way to match your skills and experience with the best jobs available.
-
-- 🔍 Personalized Job Matches powered by smart matching logic  
-- 📂 Seamless CV uploads and profile management  
-- ⭐ Bookmark opportunities and track your applications  
-- 📱 Mobile-friendly PWA experience  
-
-#### 🔹 [Dutch Learning](https://dutchlearning.vercel.app/)
-> An interactive Dutch language learning platform to build fluency with ease.
-
-- 📘 Interactive Dutch lessons with progress tracking  
-- ✅ Quizzes with instant feedback  
-- 🗂️ Vocabulary explorer with categorized word lists  
-- 💾 Progress saving with localStorage  
-- 📱 Fully mobile-responsive UI  
-
-#### 🔹 [My Portfolio](https://ray-klanderman-portfolio-teamdevray.vercel.app/)
-> Get to know my work, skills, and professional journey in one interactive hub.
-
-- 🧩 Projects, Skills, and Experience in one place  
-- ✨ Clean, modern design  
-- 📱 Optimized for mobile and desktop  
-
-
-- **Civic Alerts Lite**  
-  An early warning system for social justice and public awareness.  
-  [Check it out here](https://civic-alert-lite.web.app/)
-
-- **Sauti Ya Wanainchi**  
-  Digitalizing public participation in Kenya for county and national bills.  
-  [Explore here]()  
-
-- **AI Health Assistant**  
-  An AI-powered chatbot for medical consultations.  
-  [Try it out here](https://ai-health-chat-teamdevray.vercel.app/)  
-
-- **Kenyanese**  
-  A social media networking platform for community engagement.  
-
-- **AI Chatbot**  
-  AI-powered chatbot using Python and Natural Language Processing (NLP) techniques.  
-
-- **Data Visualization Tool**  
-  Data visualization tool using JavaScript and D3.js to analyze and present large datasets.  
+My mission: **Build technology that understands people—and help people build better technology.**
 
 ---
 
+## 🧠 Featured Projects  
 
-### 🛠️ Technical Skills
+<details>
+<summary>🔹 TutaLearn – African Educational Platform</summary>
 
-#### Programming Languages:
+**Website:** [tutalearn.vercel.app](https://tutalearn.vercel.app/)  
+**Mission:** *Elimu kwa kila mtu – Education for everyone.*
+
+TutaLearn is a Progressive Web App (PWA) bringing **AI-powered, culturally relevant education** to African students through **WhatsApp integration** and **offline-first technology**.
+
+**✨ Features**
+- WhatsApp integration for AI tutoring (Swahili/English)
+- Groq API for fast contextual responses
+- Curriculum-aligned educational content (Math, Science, Literature)
+- Offline-first PWA with cached lessons & background sync
+- Culturally localized examples (e.g., maize farming, African wildlife)
+</details>
+
+---
+
+<details>
+<summary>🔹 WeatherWise Planner – AI Climate Risk Tool</summary>
+
+**Website:** [weatherwise.earth](https://weatherwise.earth)
+
+Transforms NASA’s 20+ years of Earth observation data into actionable climate insights for **farmers, travelers, and event organizers**.  
+Built with **FastAPI**, **React**, and **Groq’s Llama 3.3 70B** model.
+
+**✨ Features**
+- Interactive globe to visualize climate risk by location  
+- AI assistant offering planning insights  
+- Probability graphs for heat, rainfall, frost, and wind  
+- CSV/JSON export and PWA offline access  
+</details>
+
+---
+
+<details>
+<summary>🔹 AI Task Manager – Smart Productivity App</summary>
+
+**Website:** [ai-task-manager-rho.vercel.app](https://ai-task-manager-rho.vercel.app/)  
+
+Showcases **Gemini AI** for real-world productivity.  
+
+**✨ Features**
+- AI categorizes and prioritizes tasks  
+- Suggests better task phrasing and organization  
+- React + TypeScript frontend, Tailwind UI  
+- Docker-ready backend with health checks  
+- Works offline with auto-backend switching  
+</details>
+
+---
+
+<details>
+<summary>🔹 Kazi Connect – AI Job Matching Platform</summary>
+
+**Website:** [kazi-connect.vercel.app](https://kazi-connect.vercel.app/)  
+
+Developed during the **ALX Professional Foundations Program** as **Team Wagradani Lead**.  
+
+**✨ Features**
+- AI-driven job matching using CV data  
+- Smart search filters and user dashboards  
+- Supabase backend + React frontend  
+- PWA for mobile accessibility  
+</details>
+
+---
+
+<details>
+<summary>🔹 AI Health Chat – AI-Powered Health Assistant</summary>
+
+**Website:** [ai-health-chat.vercel.app](https://ai-health-chat.vercel.app/)  
+
+Built using **xAI’s Grok 2 API**, this chatbot delivers accurate and safe health-related responses.  
+
+**✨ Features**
+- Ethical prompt filtering  
+- Fast, contextual responses  
+- Accessible, educational design for users across Africa  
+</details>
+
+---
+
+<details>
+<summary>🔹 Civic Alert Lite – Citizen Engagement System</summary>
+
+**Website:** [civic-alert-lite.web.app](https://civic-alert-lite.web.app/)  
+A public participation alert platform built for citizen awareness and social advocacy.  
+</details>
+
+---
+
+<details>
+<summary>🔹 My Portfolio</summary>
+
+**Website:** [ray-klanderman-portfolio.vercel.app](https://ray-klanderman-portfolio.vercel.app/)  
+Interactive hub for showcasing all my projects, credentials, and experience.  
+</details>
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-#### Frameworks & Platforms:
+**Frameworks:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-#### Databases:
+**Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Tools & Cloud:
+**Cloud & Tools:**  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
+## 🌍 Connect With Me  
 
-- Twitter: [@rayklanderman](https://x.com/rayklanderman)
-- LinkedIn: [Raymond Klanderman](https://www.linkedin.com/in/raymondklanderman/)
-- Portfolio: [ray-klanderman-portfolio-teamdevray.vercel.app](https://ray-klanderman-portfolio-teamdevray.vercel.app/)
+- 🌐 **Portfolio:** [ray-klanderman-portfolio.vercel.app](https://ray-klanderman-portfolio.vercel.app/)  
+- 💼 **LinkedIn:** [Raymond Klanderman](https://www.linkedin.com/in/raymondklanderman)  
+- 🐙 **GitHub:** [@rayklanderman](https://github.com/rayklanderman)  
+- 🐦 **Twitter:** [@rayklanderman](https://x.com/rayklanderman)  
 
 ---
 
-> Built with ❤️ and a whole lot of ☕ + AI ⚙️
+> “Building tools that understand people, and empowering people to build better tools.” ⚙️
 
