@@ -191,10 +191,10 @@ Interactive hub for showcasing all my projects, credentials, and experience.
 ## 🌍 Connect With Me  
 
 - 🌐 **Portfolio:** [ray-klanderman-portfolio.vercel.app](https://ray-klanderman-portfolio.vercel.app/)  
+- 🌐 **Personal Website:** [rayklanderman.github.io](https://rayklanderman.github.io)  
 - 💼 **LinkedIn:** [Raymond Klanderman](https://www.linkedin.com/in/raymondklanderman)  
 - 🐙 **GitHub:** [@rayklanderman](https://github.com/rayklanderman)  
 - 🐦 **Twitter:** [@rayklanderman](https://x.com/rayklanderman)  
-- 🎓 **Microsoft Student Ambassador Resources:** [rayklanderman.github.io](https://rayklanderman.github.io)  
 
 ---
 
