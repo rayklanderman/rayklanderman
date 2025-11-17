@@ -194,6 +194,7 @@ Interactive hub for showcasing all my projects, credentials, and experience.
 - 💼 **LinkedIn:** [Raymond Klanderman](https://www.linkedin.com/in/raymondklanderman)  
 - 🐙 **GitHub:** [@rayklanderman](https://github.com/rayklanderman)  
 - 🐦 **Twitter:** [@rayklanderman](https://x.com/rayklanderman)  
+- 🎓 **Microsoft Student Ambassador Resources:** [rayklanderman.github.io](https://rayklanderman.github.io)  
 
 ---
 
