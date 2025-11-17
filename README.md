@@ -190,7 +190,7 @@ Interactive hub for showcasing all my projects, credentials, and experience.
 
 ## 🌍 Connect With Me  
 
-- 🌐 **Portfolio:** [ray-klanderman-portfolio.vercel.app](https://ray-klanderman-portfolio.vercel.app/)  
+- 🌐 **Portfolio:** [rayklanderman.is-a.dev](https://rayklanderman.is-a.dev/)  
 - 🌐 **Personal Website:** [rayklanderman.github.io](https://rayklanderman.github.io)  
 - 💼 **LinkedIn:** [Raymond Klanderman](https://www.linkedin.com/in/raymondklanderman)  
 - 🐙 **GitHub:** [@rayklanderman](https://github.com/rayklanderman)  
