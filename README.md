@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rayklanderman&label=Profile%20views&color=0e75b6&style=flat" alt="rayklanderman" />
+  <img src="https://img.shields.io/github/followers/rayklanderman?label=Followers&style=flat&color=0e75b6" alt="Followers" />
 </p>
 
 <p align="center">
@@ -26,7 +27,19 @@
 I'm a **Software Engineer and AI Developer** passionate about building smart, scalable solutions that merge creativity with technology.  
 I specialize in **AI development**, **data analytics**, and **cloud computing**, and I’m deeply motivated by the potential of technology to uplift communities across Africa and beyond.  
 
-My mission: **Build technology that understands people—and help people build better technology.**
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayklanderman&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayklanderman&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayklanderman&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rayklanderman&theme=radical" alt="Wakatime Stats" />
+</p>
 
 ---
 
@@ -163,6 +176,15 @@ Interactive hub for showcasing all my projects, credentials, and experience.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🏆 Certifications  
+
+- **Google Cloud Professional Cloud Architect** (Expected: 2025)  
+- **AWS Certified Solutions Architect**  
+- **Microsoft Azure Fundamentals**  
+- **TensorFlow Developer Certificate**  
 
 ---
 
