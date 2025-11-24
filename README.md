@@ -29,16 +29,15 @@ I specialize in **AI development**, **data analytics**, and **cloud computing**,
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayklanderman&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayklanderman&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayklanderman&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rayklanderman&theme=radical" alt="Wakatime Stats" />
+  <img src="https://wakatime.com/badge/user/5586ebce-b712-46ad-a23f-b2ea7eb3ff35.svg" alt="WakaTime Badge" />
+</p>
+
+<p align="center">
+  <figure><embed src="https://wakatime.com/share/@rayklanderman/c114e56f-e44d-4890-bcdb-761a1337bee1.svg"></embed></figure>
 </p>
 
 ---
@@ -48,7 +47,7 @@ I specialize in **AI development**, **data analytics**, and **cloud computing**,
 <details>
 <summary>🔹 TutaLearn – African Educational Platform</summary>
 
-**Website:** [tutalearn.vercel.app](https://tutalearn.vercel.app/)  
+**Website:** [tutalearn.study](https://tutalearn.study/)  
 **Mission:** *Elimu kwa kila mtu – Education for everyone.*
 
 TutaLearn is a Progressive Web App (PWA) bringing **AI-powered, culturally relevant education** to African students through **WhatsApp integration** and **offline-first technology**.
@@ -100,7 +99,7 @@ Showcases **Gemini AI** for real-world productivity.
 <details>
 <summary>🔹 Kazi Connect – AI Job Matching Platform</summary>
 
-**Website:** [kazi-connect.vercel.app](https://kazi-connect.vercel.app/)  
+**Website:** [www.kaziconnect.work](https://www.kaziconnect.work/)  
 
 Developed during the **ALX Professional Foundations Program** as **Team Wagradani Lead**.  
 
@@ -116,7 +115,7 @@ Developed during the **ALX Professional Foundations Program** as **Team Wagradan
 <details>
 <summary>🔹 AI Health Chat – AI-Powered Health Assistant</summary>
 
-**Website:** [ai-health-chat.vercel.app](https://ai-health-chat.vercel.app/)  
+**Website:** [aihealthchat.qzz.io](https://aihealthchat.qzz.io/)  
 
 Built using **xAI’s Grok 2 API**, this chatbot delivers accurate and safe health-related responses.  
 
@@ -140,7 +139,7 @@ A public participation alert platform built for citizen awareness and social adv
 <details>
 <summary>🔹 My Portfolio</summary>
 
-**Website:** [ray-klanderman-portfolio.vercel.app](https://ray-klanderman-portfolio.vercel.app/)  
+**Website:** [rayklanderman.is-a.dev](https://rayklanderman.is-a.dev/)  
 Interactive hub for showcasing all my projects, credentials, and experience.  
 </details>
 
@@ -174,7 +173,6 @@ Interactive hub for showcasing all my projects, credentials, and experience.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -199,4 +197,3 @@ Interactive hub for showcasing all my projects, credentials, and experience.
 ---
 
 > “Building tools that understand people, and empowering people to build better tools.” ⚙️
-
