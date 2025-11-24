@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rayklanderman&label=Profile%20views&color=0e75b6&style=flat" alt="rayklanderman" />
   <img src="https://img.shields.io/github/followers/rayklanderman?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  <img src="https://wakatime.com/badge/user/5586ebce-b712-46ad-a23f-b2ea7eb3ff35.svg" alt="WakaTime Badge" />
 </p>
 
 <p align="center">
@@ -33,7 +34,6 @@ I specialize in **AI development**, **data analytics**, and **cloud computing**,
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayklanderman&theme=radical" alt="GitHub Streak" />
-  <img src="https://wakatime.com/badge/user/5586ebce-b712-46ad-a23f-b2ea7eb3ff35.svg" alt="WakaTime Badge" />
 </p>
 
 <p align="center">
