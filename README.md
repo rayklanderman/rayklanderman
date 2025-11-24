@@ -37,7 +37,7 @@ I specialize in **AI development**, **data analytics**, and **cloud computing**,
 </p>
 
 <p align="center">
-  <figure><embed src="https://wakatime.com/share/@rayklanderman/c114e56f-e44d-4890-bcdb-761a1337bee1.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@rayklanderman/77e31138-1f27-405b-8369-9f9dbe2b1716.svg" alt="WakaTime Language Chart" width="650"/>
 </p>
 
 ---
