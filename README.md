@@ -25,7 +25,7 @@
 
 ## 🚀 About Me  
 
-# Software Engineer & AI Engineer
+# Software Engineer • AI Engineer • Data Analyst
 
 I build smart, scalable systems that solve real-world problems. My work spans full-stack development, machine learning, data analytics, cloud technologies, and CI/CD automation.
 
@@ -33,18 +33,18 @@ I build smart, scalable systems that solve real-world problems. My work spans fu
 Python • TypeScript/React • Flutter • SQL/NoSQL • Google Cloud
 
 **Specialized in**  
-Production-ready intelligent workflows powered by APIs, agent-based systems, and Retrieval-Augmented Generation (RAG) architectures.
+Production-ready intelligent workflows powered by APIs, agent-based systems, and Retrieval-Augmented Generation (RAG) architectures
 
-I also create clear technical content that drives product adoption and team alignment.
+I turn data into insights, insights into features, and features into products people love. I also create clear technical content that drives adoption and keeps teams aligned.
 
 **My mission**  
 Building tools that truly understand people — and empowering people to build better tools.
 
-Curiosity fuels everything. I constantly prototype cutting-edge ML techniques and productionize autonomous agents and advanced automation.
+Curiosity fuels everything. Constantly prototyping cutting-edge ML techniques, productionizing autonomous agents, and shipping advanced automation.
 
 Always excited to join ambitious teams creating the next generation of human-centered AI.
 
-🚀 Open to collaboration on forward-thinking projects.  
+🚀 Open to collaboration on forward-thinking projects — reach out!
 
 ---
 
