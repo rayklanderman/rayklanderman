@@ -30,7 +30,16 @@
 I build smart, scalable systems that solve real-world problems. My work spans full-stack development, machine learning, data analytics, cloud technologies, and CI/CD automation.
 
 **Core stack**  
-Python • TypeScript/React • Flutter • SQL/NoSQL • Google Cloud
+- Python (FastAPI, Streamlit, Pandas, Polars, Pydantic)  
+- TypeScript • React • Next.js • Tailwind CSS  
+- Flutter & Dart (iOS/Android/web)  
+- SQL • PostgreSQL • BigQuery • Firestore  
+- Google Cloud Platform (Cloud Run, Cloud Functions, Vertex AI, Secret Manager, Cloud Workflows)  
+- Vector DBs → Pinecone • Weaviate • Qdrant  
+- RAG & Agents → LangChain • LlamaIndex • LangGraph  
+- LLM providers → OpenAI • Anthropic • Gemini • Groq • Ollama  
+- Docker • GitHub Actions (CI/CD) • Terraform  
+- Observability → Prometheus • Grafana • OpenTelemetry
 
 **Specialized in**  
 Production-ready intelligent workflows powered by APIs, agent-based systems, and Retrieval-Augmented Generation (RAG) architectures
