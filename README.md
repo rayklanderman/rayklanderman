@@ -25,8 +25,26 @@
 
 ## 🚀 About Me  
 
-I'm a **Software Engineer and AI Developer** passionate about building smart, scalable solutions that merge creativity with technology.  
-I specialize in **AI development**, **data analytics**, and **cloud computing**, and I’m deeply motivated by the potential of technology to uplift communities across Africa and beyond.  
+# Software Engineer & AI Engineer
+
+I build smart, scalable systems that solve real-world problems. My work spans full-stack development, machine learning, data analytics, cloud technologies, and CI/CD automation.
+
+**Core stack**  
+Python • TypeScript/React • Flutter • SQL/NoSQL • Google Cloud
+
+**Specialized in**  
+Production-ready intelligent workflows powered by APIs, agent-based systems, and Retrieval-Augmented Generation (RAG) architectures.
+
+I also create clear technical content that drives product adoption and team alignment.
+
+**My mission**  
+Building tools that truly understand people — and empowering people to build better tools.
+
+Curiosity fuels everything. I constantly prototype cutting-edge ML techniques and productionize autonomous agents and advanced automation.
+
+Always excited to join ambitious teams creating the next generation of human-centered AI.
+
+🚀 Open to collaboration on forward-thinking projects.  
 
 ---
 
