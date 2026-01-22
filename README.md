@@ -1,226 +1,184 @@
-<h1 align="center">👋 Hi, I'm R K (DevRay)</h1>  
-<h3 align="center">Full-time DEV | AI + ML | Fullstack | Computer Vision</h3>  
+# 👋 Raymond Klanderman (DevRay)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rayklanderman&label=Profile%20views&color=0e75b6&style=flat" alt="rayklanderman" />
-  <img src="https://img.shields.io/github/followers/rayklanderman?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  <img src="https://wakatime.com/badge/user/5586ebce-b712-46ad-a23f-b2ea7eb3ff35.svg" alt="WakaTime Badge" />
-</p>
+![Followers](https://img.shields.io/github/followers/rayklanderman?label=Followers&style=flat)
+![WakaTime](https://img.shields.io/badge/WakaTime-Active-blue)
+![Visitors](https://komarev.com/ghpvc/?username=rayklanderman&label=Visitors)
 
-<p align="center">
-  <a href="https://x.com/rayklanderman" target="blank">
-    <img src="https://img.shields.io/twitter/follow/rayklanderman?logo=x&style=for-the-badge" alt="rayklanderman" />
-  </a>
-</p>
+![xAI](https://img.shields.io/badge/xAI-Developer-black)
+![Gemini](https://img.shields.io/badge/Gemini-Developer-blue)
+![OpenAI](https://img.shields.io/badge/OpenAI-Developer-black)
+![Supabase](https://img.shields.io/badge/Supabase-Developer-green)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Developer-blue)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=rayklanderman&label=Visitors&countColor=%23263759)  
-
-[![xAI Developer](https://img.shields.io/badge/xAI%20Developer-000000?style=for-the-badge&logo=xai)](https://x.ai/) 
-[![Gemini Developer](https://img.shields.io/badge/Gemini%20Developer-4285F4?style=for-the-badge&logo=google-gemini)](https://developers.google.com/gemini) 
-[![OpenAI Developer](https://img.shields.io/badge/OpenAI%20Developer-412991?style=for-the-badge&logo=openai)](https://platform.openai.com/) 
-[![Supabase Developer](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)](https://supabase.com/) 
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
+**Software Engineer | AI/ML & Full-Stack Developer | Building production-grade intelligent systems**
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-# Software Engineer • AI Engineer • Data Analyst
+I’m a Software Engineer and AI Engineer focused on building **intelligent, scalable systems** that solve real-world problems. My work spans full-stack development, applied machine learning, multi-agent architectures, cloud infrastructure, and data analytics—with a strong emphasis on **production readiness, reliability, and human-centered design**.
 
-I build smart, scalable systems that solve real-world problems. My work spans full-stack development, machine learning, data analytics, cloud technologies, and CI/CD automation.
+I specialize in turning complex ideas into deployed products: APIs, agent-based workflows, Retrieval-Augmented Generation (RAG) systems, and data-driven applications that people actually use.
 
-**Core stack**  
-- Python (FastAPI, Streamlit, Pandas, Polars, Pydantic)  
-- TypeScript • React • Next.js • Tailwind CSS  
-- Flutter & Dart (iOS/Android/web)  
-- SQL • PostgreSQL • BigQuery • Firestore  
-- Google Cloud Platform (Cloud Run, Cloud Functions, Vertex AI, Secret Manager, Cloud Workflows)  
-- Vector DBs → Pinecone • Weaviate • Qdrant  
-- RAG & Agents → LangChain • LlamaIndex • LangGraph  
-- LLM providers → OpenAI • Anthropic • Gemini • Groq • Ollama  
-- Docker • GitHub Actions (CI/CD) • Terraform  
-- Observability → Prometheus • Grafana • OpenTelemetry
-
-**Specialized in**  
-Production-ready intelligent workflows powered by APIs, agent-based systems, and Retrieval-Augmented Generation (RAG) architectures
-
-I turn data into insights, insights into features, and features into products people love. I also create clear technical content that drives adoption and keeps teams aligned.
-
-**My mission**  
-Building tools that truly understand people — and empowering people to build better tools.
-
-Curiosity fuels everything. Constantly prototyping cutting-edge ML techniques, productionizing autonomous agents, and shipping advanced automation.
-
-Always excited to join ambitious teams creating the next generation of human-centered AI.
-
-🚀 Open to collaboration on forward-thinking projects — reach out!
+> **My mission**: Build tools that truly understand people—and empower people to build better tools.
 
 ---
 
-## 📊 Stats
+## 🧠 Core Focus
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayklanderman&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://wakatime.com/share/@rayklanderman/77e31138-1f27-405b-8369-9f9dbe2b1716.svg" alt="WakaTime Language Chart" width="650"/>
-</p>
+- AI agents, RAG pipelines, and orchestration architectures  
+- Production ML systems with clear guardrails and observability  
+- Full-stack platforms with strong UX and scalable backends  
+- Cloud-native deployments and CI/CD automation  
 
 ---
 
-## 🧠 Featured Projects  
+## 🧠 Featured Projects
 
-<details>
-<summary>🔹 TutaLearn – African Educational Platform</summary>
+### 🩺 [AI Health Chat — AI-Powered Medical & Emergency Assistant](https://github.com/rayklanderman/AI-Health-Chat)
 
-**Website:** [tutalearn.study](https://tutalearn.study/)  
-**Mission:** *Elimu kwa kila mtu – Education for everyone.*
+A production-grade AI health assistant designed with **strict medical-domain grounding** and safety constraints. Uses **xAI Grok** models restricted exclusively to health/emergency queries, deployed via **Docker** with hard-coded guardrails to prevent hallucinations.
 
-TutaLearn is a Progressive Web App (PWA) bringing **AI-powered, culturally relevant education** to African students through **WhatsApp integration** and **offline-first technology**.
+- **Domain-restricted**: Only answers verified medical/health-emergency questions  
+- **Model**: xAI Grok  
+- **Deployment**: Docker containerized  
+- **Safety-first**: Refuses non-health prompts; zero data retention  
 
-**✨ Features**
-- WhatsApp integration for AI tutoring (Swahili/English)
-- Groq API for fast contextual responses
-- Curriculum-aligned educational content (Math, Science, Literature)
-- Offline-first PWA with cached lessons & background sync
-- Culturally localized examples (e.g., maize farming, African wildlife)
-</details>
+🔗 **Live demo**: [aihealthchat.qzz.io](https://aihealthchat.qzz.io)
 
 ---
 
-<details>
-<summary>🔹 WeatherWise Planner – AI Climate Risk Tool</summary>
+### 😌 [SerenityAI — AI-Powered Mental Wellness Companion](https://github.com/rayklanderman/Serenity-AI)
 
-**Website:** [weatherwise.earth](https://weatherwise.earth)
+A privacy-first mental wellness platform powered by **six intelligent agents** built with **Jaseci’s JacLang byLLM architecture**. Offers empathetic support, mood tracking, journaling, and emotional pattern analysis—**never replacing human care**.
 
-Transforms NASA’s 20+ years of Earth observation data into actionable climate insights for **farmers, travelers, and event organizers**.  
-Built with **FastAPI**, **React**, and **Groq’s Llama 3.3 70B** model.
+**Key Features**  
+- 6 specialized agents: MoodLogger, TrendAnalyzer, SuggestionGen, JournalSaver  
+- Emoji-based mood check-ins + AI empathy responses  
+- Smart journaling with AI insights  
+- Weekly emotional trend reports  
+- Gamification: points, streaks, badges  
+- 100% private · No long-term data storage  
 
-**✨ Features**
-- Interactive globe to visualize climate risk by location  
-- AI assistant offering planning insights  
-- Probability graphs for heat, rainfall, frost, and wind  
-- CSV/JSON export and PWA offline access  
-</details>
+**Tech Stack**  
+- JacLang OSP Graph Architecture  
+- Groq API (Llama 3.3-70B) for ultra-fast inference  
+- React + TypeScript frontend  
+- Supabase for secure persistence  
 
----
-
-<details>
-<summary>🔹 AI Task Manager – Smart Productivity App</summary>
-
-**Website:** [ai-task-manager-rho.vercel.app](https://ai-task-manager-rho.vercel.app/)  
-
-Showcases **Gemini AI** for real-world productivity.  
-
-**✨ Features**
-- AI categorizes and prioritizes tasks  
-- Suggests better task phrasing and organization  
-- React + TypeScript frontend, Tailwind UI  
-- Docker-ready backend with health checks  
-- Works offline with auto-backend switching  
-</details>
+🔗 **Live demo**: [serenityai.qzz.io](https://serenityai.qzz.io)  
+📹 **[YouTube Demo](https://youtu.be/hTYu1XOeRQE)**
 
 ---
 
-<details>
-<summary>🔹 Kazi Connect – AI Job Matching Platform</summary>
+### 🔍 [AutoResearcher — Multi-Agent Research Crew](https://github.com/rayklanderman/CapstoneProject-Autoresearcher)
 
-**Website:** [www.kaziconnect.work](https://www.kaziconnect.work/)  
+Transforms a single prompt into a **print-ready, citation-rich LaTeX PDF** in under 10 minutes using a **7-agent system** built on **Google Vertex AI Agent Development Kit (ADK)**.
 
-Developed during the **ALX Professional Foundations Program** as **Team Wagradani Lead**.  
+**What It Delivers**  
+- 15–50+ verified web sources (via Tavily)  
+- Fact-checked claims (no hallucinated references)  
+- Dynamic Matplotlib charts (market trends, risk matrices)  
+- Structured academic report (executive summary → conclusion)  
+- Auto-generated Markdown → LaTeX → PDF  
 
-**✨ Features**
-- AI-driven job matching using CV data  
-- Smart search filters and user dashboards  
-- Supabase backend + React frontend  
-- PWA for mobile accessibility  
-</details>
+⚡ End-to-end pipeline in <10 minutes  
+⚡ Zero manual formatting or citation work  
 
----
+**Agent Workflow**  
+`Supervisor → Researcher → FactChecker → Visualizer → Writer → Formatter → Compiler`
 
-<details>
-<summary>🔹 AI Health Chat – AI-Powered Health Assistant</summary>
+All agents share a coordinated in-memory state for reliable execution.
 
-**Website:** [aihealthchat.qzz.io](https://aihealthchat.qzz.io/)  
+![AutoResearcher Architecture](https://raw.githubusercontent.com/rayklanderman/CapstoneProject-Autoresearcher/main/AutoResearcher%20Architecture.png)
 
-Built using **xAI’s Grok 2 API**, this chatbot delivers accurate and safe health-related responses.  
+**Tech Stack**  
+- Vertex AI ADK (Python)  
+- Gemini 2.5 Pro & Flash  
+- Tavily (web search)  
+- Python REPL (Matplotlib)  
+- Pandoc + LaTeX (PDF export)  
+- Kaggle Notebook environment  
 
-**✨ Features**
-- Ethical prompt filtering  
-- Fast, contextual responses  
-- Accessible, educational design for users across Africa  
-</details>
-
----
-
-<details>
-<summary>🔹 Civic Alert Lite – Citizen Engagement System</summary>
-
-**Website:** [civic-alert-lite.web.app](https://civic-alert-lite.web.app/)  
-A public participation alert platform built for citizen awareness and social advocacy.  
-</details>
+🔗 **GitHub**: [github.com/rayklanderman/CapstoneProject-Autoresearcher](https://github.com/rayklanderman/CapstoneProject-Autoresearcher)  
+📹 **[YouTube Demo](https://www.youtube.com/watch?v=s5Sktg34uC0)**
 
 ---
 
-<details>
-<summary>🔹 My Portfolio</summary>
+### 📚 [TutaLearn — African AI-Powered Educational Platform](https://github.com/rayklanderman/TutaLearn)
 
-**Website:** [rayklanderman.is-a.dev](https://rayklanderman.is-a.dev/)  
-Interactive hub for showcasing all my projects, credentials, and experience.  
-</details>
+An offline-first **Progressive Web App (PWA)** delivering culturally relevant, AI-powered education across Africa—accessible via **WhatsApp** and optimized for low-bandwidth environments.
 
----
+- Content localized to African contexts (e.g., maize-based math)  
+- Swahili + English support  
+- Curriculum-aligned lessons (Primary to Secondary)  
+- Works offline; syncs when online  
 
-## 🛠️ Tech Stack  
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-
-**Frameworks:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Cloud & Tools:**  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🔗 **Live demo**: [tutalearn.study](https://www.tutalearn.study)
 
 ---
 
-## 🏆 Certifications  
+### 📺 [Weru Digital — Flutter TV & Media Streaming App](https://github.com/rayklanderman/weru_digital)
 
-- **Google Cloud Professional Cloud Architect** (Expected: 2025)  
-- **AWS Certified Solutions Architect**  
-- **Microsoft Azure Fundamentals**  
-- **TensorFlow Developer Certificate**  
+A production-ready **Flutter app** delivering live Kenyan TV, radio, and news—with a **zero-data-collection** privacy policy.
 
----
+- HD livestreaming (OK.ru integration)  
+- Radio + RSS news feed  
+- All logic runs **on-device**  
+- Google Play Store compliant (v3.0.1)  
 
-## 🌍 Connect With Me  
-
-- 🌐 **Portfolio:** [rayklanderman.is-a.dev](https://rayklanderman.is-a.dev/)  
-- 🌐 **Personal Website:** [rayklanderman.github.io](https://rayklanderman.github.io)  
-- 💼 **LinkedIn:** [Raymond Klanderman](https://www.linkedin.com/in/raymondklanderman)  
-- 🐙 **GitHub:** [@rayklanderman](https://github.com/rayklanderman)  
-- 🐦 **Twitter:** [@rayklanderman](https://x.com/rayklanderman)  
+🔗 **Google Play**: [Weru Digital](https://play.google.com/store/search?q=weru%20digital&c=apps&hl=en_US)  
+🔗 **GitHub**: [github.com/rayklanderman/weru_digital](https://github.com/rayklanderman/weru_digital)
 
 ---
 
-> “Building tools that understand people, and empowering people to build better tools.” ⚙️
+## 🛠️ Tech Stack
+
+### Languages & Core Tools  
+Python • TypeScript • JavaScript • Dart • SQL
+
+### Notebooks & Research  
+Jupyter Notebook • Anaconda • Kaggle Notebooks • Google Colab
+
+### Frameworks & Libraries  
+FastAPI • React • Next.js • Flutter • Streamlit • Pandas • Polars • Matplotlib
+
+### AI, Agents & LLMs  
+Vertex AI ADK • LangChain • LlamaIndex • LangGraph  
+Groq • Together AI • xAI Grok 4 • OpenAI • Anthropic • Gemini
+
+### Cloud & Infrastructure  
+Google Cloud Platform • Oracle Cloud Infrastructure (OCI)  
+Docker • Kubernetes • Terraform • Cloud Run • Vertex AI
+
+### CI/CD & DevOps  
+GitHub Actions • CI/CD pipelines • Container-based deployments
+
+### Observability  
+Prometheus • Grafana • OpenTelemetry
+
+## 🧰 Modern AI Tooling
+
+Claude Code • Google Antigravity • OpenCode • GitHub Copilot • Cursor
+
+---
+
+## 🏆 Certifications & Credentials
+
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** (Oct 2025)  
+- **Data Analytics** – ALX Africa (Sep 2025)  
+- **Certified Software Development Professional (CSDP)** – Power Learn Project (Jan 2024)  
+- **Stanford CS106A: Code in Place** (Jan 2024)  
+- **Google Cloud & Generative AI Skills (Gold League)** – 17+ labs completed  
+- **Digital Credentials Portfolio** – Credly by Pearson (Generative AI, AWS, GCP, Cybersecurity)
+
+---
+
+## 🌍 Connect With Me
+
+- 🌐 **Portfolio**: [rayklanderman.is-a.dev](https://rayklanderman.is-a.dev)  
+- 💼 **LinkedIn**: [linkedin.com/in/rayklanderman](https://www.linkedin.com/in/rayklanderman)  
+- 🐦 **Twitter/X**: [@rayklanderman](https://x.com/rayklanderman)  
+- 📧 **Email**: alphadisruptor254@proton.me  
+
+> “Building tools that understand people—and empowering people to build better tools.”
