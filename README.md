@@ -179,6 +179,6 @@ Claude Code • Google Antigravity • OpenCode • GitHub Copilot • Cursor
 - 🌐 **Portfolio**: [rayklanderman.is-a.dev](https://rayklanderman.is-a.dev)  
 - 💼 **LinkedIn**: [linkedin.com/in/rayklanderman](https://www.linkedin.com/in/rayklanderman)  
 - 🐦 **Twitter/X**: [@rayklanderman](https://x.com/rayklanderman)  
-- 📧 **Email**: alphadisruptor254@proton.me  
+- 📧 **Email**: info@devray.site 
 
 > “Building tools that understand people—and empowering people to build better tools.”
