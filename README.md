@@ -1,84 +1,124 @@
 <div align="center">
 
-# Raymond Klanderman (DevRay)
+# Raymond Klanderman · DevRay
 
-**Software & AI Engineer · Applied Machine Learning · Cloud & Full-Stack Development**
+**Software & AI Engineer | Applied Machine Learning | Cloud & Automation**
 
-I build practical AI and software products, from data and models to APIs, interfaces, testing, and deployment.
+I design, build, and deploy practical software—from data pipelines and machine learning models to AI-powered products, APIs, mobile applications, and cloud services.
 
-[Portfolio](https://rayklanderman.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/rayklanderman/) · [Project demos](https://www.youtube.com/playlist?list=PLJa0i7fpyLmA) · [Contact](mailto:info@devray.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-25364A?style=flat-square&logo=googlechrome&logoColor=white)](https://rayklanderman.is-a.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-25364A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayklanderman/)
+[![Project Demos](https://img.shields.io/badge/YouTube-Project_Demos-25364A?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLJa0i7fpyLmA)
+[![Contact](https://img.shields.io/badge/Email-Get_in_Touch-25364A?style=flat-square&logo=gmail&logoColor=white)](mailto:info@devray.site)
 
 </div>
 
 ---
 
-## What I do
+## About
 
-I develop **end-to-end web, mobile, and AI systems** spanning applied machine learning, multimodal applications, agentic workflows, and cloud infrastructure. My work includes healthcare, education, accessibility, civic technology, and decision analytics.
+I'm a software and AI engineer working across **full-stack development, applied ML, multimodal AI, agentic systems, and cloud infrastructure**. My projects span healthcare, education, accessibility, civic technology, and business analytics.
 
-I care about more than a model or a working demo: **sound evaluation, maintainable architecture, privacy, accessibility, and useful outcomes**.
+I work across the engineering lifecycle: **problem definition, data and architecture, implementation, evaluation, security, testing, and delivery**. I value measurable results, well-defined limitations, and software people can actually use.
 
-My code is maintained across two accounts: **[@rayklanderman](https://github.com/rayklanderman)** (primary) and **[@RealDevRay](https://github.com/RealDevRay)** (my second GitHub account). Both are mine; project links below lead to their original repositories.
+**Two GitHub accounts, one body of work:** [@rayklanderman](https://github.com/rayklanderman) is my **primary professional account**; [@RealDevRay](https://github.com/RealDevRay) is **my second account**, where I maintain projects including EyeSense, Luminae, and Sauti Mtaani Nairobi. Both accounts belong to me, and links below point to the original repositories.
 
-## Selected work
+## Selected machine learning & AI work
 
-### Machine learning & research
+### [Profit-Targeted Churn Retention](https://github.com/rayklanderman/profit-targeted-churn-retention)
 
-**[Profit-Targeted Churn Retention](https://github.com/rayklanderman/profit-targeted-churn-retention)**  
-`Python` `LightGBM` `XGBoost` `scikit-learn` `Decision modeling`
+`Python` `pandas` `LightGBM` `XGBoost` `scikit-learn` `Decision analytics`
 
-Built a churn prediction and expected-profit targeting workflow using **100,000 telecom customer records**. Engineered **113 features** from 98 source fields and evaluated models on a **20,000-customer holdout** (LightGBM ROC-AUC **0.698**, versus **0.678** baseline). A value-aware retention strategy projected **$49,526 monthly net profit per 100,000 customers** and **74% ROI** under stated assumptions. These are modeled estimates, not realized campaign results; the project proposes a randomized pilot.
+Built a churn-prediction and profit-based targeting workflow using **100,000 telecom customer records** and **113 engineered features** derived from 98 source fields. The selected model achieved **0.698 holdout ROC-AUC** on 20,000 records, against a **0.678 baseline**. A value-aware strategy projected **$49,526 monthly net profit per 100,000 customers** and **74% campaign ROI** under explicit assumptions—not realized returns. The project includes sensitivity analysis and a proposed randomized pilot.
 
-[Repository and analysis](https://github.com/rayklanderman/profit-targeted-churn-retention) · [Technical article](https://www.linkedin.com/pulse/from-churn-prediction-profit-building-machine-100000-klanderman-irche/)
+[Code & analysis](https://github.com/rayklanderman/profit-targeted-churn-retention) · [Technical article](https://www.linkedin.com/pulse/from-churn-prediction-profit-building-machine-100000-klanderman-irche/)
 
-**[Movie Recommendation Project](https://github.com/rayklanderman/mrp-2026)**  
+### [Movie Recommendation Project](https://github.com/rayklanderman/mrp-2026)
+
 `Python` `SVD` `LightGBM` `Recommender systems`
 
-Built a hybrid recommendation pipeline using collaborative filtering and gradient boosting on approximately **10 million movie ratings**. Improved public-leaderboard RMSE from **1.21 to 0.82** through feature engineering and iterative evaluation. The result is a competition score, not a production metric.
+Developed a hybrid recommendation pipeline over approximately **10 million ratings**, combining collaborative filtering with gradient boosting. Improved **public-leaderboard RMSE from 1.21 to 0.82** through feature engineering and experimentation (a competition result, not a production metric).
 
-[Repository](https://github.com/rayklanderman/mrp-2026) · [Case study](https://rayklanderman.is-a.dev/projects/movie-recommendation)
+[Code](https://github.com/rayklanderman/mrp-2026) · [Case study](https://rayklanderman.is-a.dev/projects/movie-recommendation)
 
-**[Probability for AI — Stanford portfolio](https://pai.stanford.edu/pai1/portfolio/vkT4Pq7wygeZK6dn3nSriEKgOXG3)**  
+### [Probability for AI — Stanford portfolio](https://pai.stanford.edu/pai1/portfolio/vkT4Pq7wygeZK6dn3nSriEKgOXG3)
+
 `Probability` `Statistical inference` `Transformers` `Model interpretability`
 
-Completed six hands-on course portfolio projects exploring probabilistic reasoning, classification, generative sampling, and inference-time computation. In a **GPT-2 knowledge-editing exercise**, updated **1,536 of ~124.4 million parameters** and observed approximately **99% probability** for the target completion, with **4/4 reported held-out checks** passed.
+Completed **six hands-on portfolio projects** within the ongoing Probability for AI programme, spanning Bayesian reasoning, satellite image classification, generative sampling, and inference-time probability. In a **GPT-2 knowledge-editing exercise**, modified **1,536 of ~124.4M parameters**, shifting a target completion to **~99% probability** and passing **4/4 reported held-out checks**.
 
-[Portfolio](https://pai.stanford.edu/pai1/portfolio/vkT4Pq7wygeZK6dn3nSriEKgOXG3) · [Rewrite GPT-2](https://pai.stanford.edu/pai1/portfolio/vkT4Pq7wygeZK6dn3nSriEKgOXG3/rewrite-gpt2)
+[Stanford portfolio](https://pai.stanford.edu/pai1/portfolio/vkT4Pq7wygeZK6dn3nSriEKgOXG3) · [Rewrite GPT-2](https://pai.stanford.edu/pai1/portfolio/vkT4Pq7wygeZK6dn3nSriEKgOXG3/rewrite-gpt2)
 
-### Products & engineering systems
+## Software products & engineering systems
 
-| Project | What I built |
+| Project | Engineering focus |
 | :--- | :--- |
-| **[AI Health Chat](https://aihealthchat.qzz.io/)** · [Case study](https://rayklanderman.is-a.dev/projects/ai-health-chat) | Multilingual health-information platform across web and WhatsApp, with text, voice, and image input, case continuity, structured reports, and safety guardrails. Public beta; not a diagnostic service. The original AI Health Assistant won **1st place** in the PLP Class of 2024 graduate hackathon. |
-| **[TutaLearn](https://tutalearn.qzz.io/)** · [Case study](https://rayklanderman.is-a.dev/projects/tutalearn) | Learning platform for Kenya's **Competency-Based Curriculum (CBC)**, with grade-aware tutoring, assessments, progress tracking, and content workflows. |
-| **[EyeSense](https://github.com/RealDevRay/eyesense)** · [Case study](https://rayklanderman.is-a.dev/projects/eyesense) | Flutter-based visual assistance for blind and low-vision users: offline OCR, text-to-speech, accessible controls, and consent-based cloud vision. Source on **@RealDevRay**. |
-| **[Luminae](https://github.com/RealDevRay/luminae)** · [Live](https://luminae.qzz.io/) | Five-agent research analysis system using Mistral OCR, FastAPI, Next.js, structured outputs, and API-cost controls. Source on **@RealDevRay**. |
-| **[Sauti Mtaani Nairobi](https://github.com/RealDevRay/Sauti-Mtaani-Nairobi)** · [Live](https://www.sautimtaani.site/) | Bilingual civic-feedback platform with protected workflows, privacy controls, human-reviewed AI assistance, and structured reporting. Source on **@RealDevRay**. |
-| **[AutoResearcher](https://github.com/rayklanderman/CapstoneProject-Autoresearcher)** · [Demo](https://www.youtube.com/watch?v=s5Sktg34uC0) | Seven-agent research and report-generation workflow using Google Vertex AI ADK and Gemini. |
+| **[AI Health Chat](https://aihealthchat.qzz.io/)** · [Case study](https://rayklanderman.is-a.dev/projects/ai-health-chat) | Multilingual health-information PWA and WhatsApp integration; voice, image, text, tracking, and structured reports, with privacy and safety controls. **Public beta; not a diagnostic service.** Original AI Health Assistant won **first place** at the PLP Class of 2024 graduate hackathon. |
+| **[TutaLearn](https://tutalearn.qzz.io/)** · [Case study](https://rayklanderman.is-a.dev/projects/tutalearn) | Kenya **CBC-focused** learning platform with AI tutoring, assessments, progress tracking, and content workflows. |
+| **[EyeSense](https://github.com/RealDevRay/eyesense)** · [Case study](https://rayklanderman.is-a.dev/projects/eyesense) | Flutter visual-assistance prototype with offline OCR, speech interaction, accessibility features, and consent-based cloud vision. **Hosted on my second GitHub account.** |
+| **[Luminae](https://github.com/RealDevRay/luminae)** · [Live](https://luminae.qzz.io/) | Five-agent research-analysis platform using Mistral OCR, FastAPI, Next.js, structured outputs, and API cost controls. **Second GitHub account.** |
+| **[Sauti Mtaani Nairobi](https://github.com/RealDevRay/Sauti-Mtaani-Nairobi)** · [Live](https://www.sautimtaani.site/) | Bilingual civic-feedback platform with protected staff workflows, structured reporting, privacy safeguards, and human-reviewed AI assistance. **Second GitHub account.** |
+| **[AutoResearcher](https://github.com/rayklanderman/CapstoneProject-Autoresearcher)** · [Demo](https://www.youtube.com/watch?v=s5Sktg34uC0) | Seven-agent research and report-generation pipeline built with Google Vertex AI ADK and Gemini. |
 
-Other applications and experiments: [PostShifter Pro](https://postshifterpro.qzz.io/) · [Live Interviewer](https://liveinterviewer.vercel.app/) · [Kazi Connect](https://kazi-connect.vercel.app/) · [SerenityAI](https://serenityai.qzz.io/) · [Codebase Genius](https://github.com/rayklanderman/jaseci-proj) · [Weru Digital](https://github.com/rayklanderman/weru_digital).
+**Other projects:** [PostShifter Pro](https://postshifterpro.qzz.io/) · [Live Interviewer](https://liveinterviewer.vercel.app/) · [Kazi Connect](https://kazi-connect.vercel.app/) · [SerenityAI](https://serenityai.qzz.io/) · [Codebase Genius](https://github.com/rayklanderman/jaseci-proj) · [Weru Digital](https://github.com/rayklanderman/weru_digital)
 
-Some applications have private source code; live demos and case studies are available where linked.
+Some products have private source code; where available, I share live applications, demonstrations, and technical case studies.
 
-## Technical expertise
+## Automation & infrastructure
 
-- **Languages:** Python, TypeScript, JavaScript, Dart, SQL.
-- **Web, mobile & APIs:** React, Next.js, Node.js/Express, FastAPI, Flutter, REST APIs.
-- **Machine learning & analytics:** pandas, NumPy, SciPy, scikit-learn, LightGBM, XGBoost, SVD, Jupyter, model evaluation, feature engineering, Power BI, Tableau.
-- **Applied AI:** LLM integration, multimodal AI, RAG, OCR, agent orchestration, structured outputs, model interpretability; experience with Gemini, OpenAI, Mistral, Groq, and xAI APIs.
-- **Cloud, data & delivery:** Google Cloud, Vertex AI, Oracle Cloud, Cloudflare Workers, Docker, GitHub Actions/CI/CD, PostgreSQL, Supabase, MySQL, Firebase, Redis; security, RLS, testing, and accessibility-conscious design.
+**Self-hosted n8n — DevRay automation environment**
 
-## Experience & development
+I operate a **self-hosted n8n instance** for workflow automation and service integrations. This complements my application and ML work with hands-on experience in running automation tooling and connecting systems. The live instance is an operational environment, **not a public demo**; deployment details and sanitized example workflows can be documented separately without exposing credentials or production configuration.
 
-I work independently as a software and AI engineer, building full-stack applications and machine learning systems. During a **2025 contract with the Pan-African Parliament**, I also designed and developed a cross-platform **Flutter/Dart Android/iOS application** integrating parliamentary information and event livestreaming.
+I also work with **REST APIs, serverless services, cloud platforms, databases, CI/CD, and application security** across my projects.
+
+## Technical stack
+
+**Software & application development**
+
+![Python](https://img.shields.io/badge/Python-25364A?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-25364A?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-25364A?style=flat-square&logo=javascript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-25364A?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-25364A?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-25364A?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-25364A?style=flat-square&logo=fastapi&logoColor=white)
+
+**Machine learning & AI systems**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-25364A?style=flat-square&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-25364A?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-25364A?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-25364A?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-25364A?style=flat-square&logo=googlegemini&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-25364A?style=flat-square)
+
+**Cloud, automation & delivery**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-25364A?style=flat-square&logo=googlecloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-25364A?style=flat-square&logo=oracle&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Self--hosted-25364A?style=flat-square&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-25364A?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-25364A?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-25364A?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-25364A?style=flat-square&logo=githubactions&logoColor=white)
+
+- **Languages & frameworks:** Python, TypeScript, JavaScript, Dart, SQL; React, Next.js, Node.js/Express, FastAPI, Flutter, REST APIs.
+- **ML & analytics:** pandas, NumPy, SciPy, scikit-learn, LightGBM, XGBoost, SVD, Jupyter, feature engineering, model evaluation, Power BI, Tableau.
+- **AI engineering:** LLM APIs, multimodal inference, OCR, retrieval-augmented generation, agent orchestration, structured outputs, evaluation; OpenAI, Gemini, Mistral, Groq, and xAI integrations.
+- **Cloud & operations:** Google Cloud / Vertex AI, Oracle Cloud, Cloudflare Workers, n8n, Supabase, PostgreSQL, MySQL, Firebase, Redis, Docker, CI/CD, testing, API security, row-level security, and accessibility-aware design.
+
+## Professional background & continued learning
+
+I build and deliver software independently. During a **2025 contract with the Pan-African Parliament**, I also designed and developed a cross-platform **Flutter/Dart Android/iOS application** integrating parliamentary information and event livestreaming.
 
 - **BSc Computer Science**, University of the People — in progress.
 - **Diploma in ICT**, Management University of Africa — Distinction.
-- **Stanford Probability for AI** and **GCI World 2026** — ongoing programmes with completed portfolio projects.
-- Additional applied training through **ALX**, **WorldQuant University**, and **Power Learn Project**.
+- **Stanford Probability for AI** and **GCI World 2026** — ongoing learning programmes with completed project work.
+- Additional technical development through **ALX**, **WorldQuant University**, and **Power Learn Project**.
 
-**Selected certifications:** Google Cloud Professional Cloud Architect · Oracle Cloud Infrastructure AI Foundations Associate · Linux Foundation KCNA · BCS Foundation Certificate in Generative AI. [See credentials](https://rayklanderman.is-a.dev/#credentials).
+**Selected certifications:** Google Cloud Professional Cloud Architect · Oracle Cloud Infrastructure AI Foundations Associate · Linux Foundation KCNA · BCS Foundation Certificate in Generative AI. [Credentials](https://rayklanderman.is-a.dev/#credentials)
 
 ---
 
-**Explore more:** [Full portfolio](https://rayklanderman.is-a.dev/) · [Main GitHub](https://github.com/rayklanderman) · [Second GitHub (@RealDevRay)](https://github.com/RealDevRay) · [LinkedIn](https://www.linkedin.com/in/rayklanderman/) · [Technical writing](https://medium.com/@raymondklanderman)
+**More:** [Portfolio](https://rayklanderman.is-a.dev/) · [GitHub @rayklanderman](https://github.com/rayklanderman) · [Second GitHub @RealDevRay](https://github.com/RealDevRay) · [LinkedIn](https://www.linkedin.com/in/rayklanderman/) · [Technical writing](https://medium.com/@raymondklanderman)
