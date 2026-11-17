@@ -19,7 +19,7 @@ I design, build, and deploy practical software—from AI agent integrations and 
 
 I'm a **software and AI engineer** working across **agentic systems, Model Context Protocol (MCP), applied ML, multimodal AI, full-stack development, and cloud infrastructure**. I build solutions for real problems in healthcare, education, accessibility, civic technology, and business analytics.
 
-My work spans **problem definition, architecture, implementation, integration, testing, deployment, and improvement**. I focus on reproducibility, dependable systems, measurable outcomes, and clear limitations—not just working demos.
+My work spans **problem definition, architecture, implementation, integration, testing, deployment, and improvement**. I also design **task-aware, multi-model AI systems**, using specialized providers, fallback paths, and practical guardrails to balance capability, reliability, and cost. I focus on reproducibility, dependable systems, measurable outcomes, and clear limitations—not just working demos.
 
 ## Featured engineering work
 
@@ -53,7 +53,7 @@ Built a **bilingual resident-engagement platform** with consent-led registration
 
 | Project | Engineering focus |
 | :--- | :--- |
-| **[AI Health Chat](https://aihealthchat.qzz.io/)** · [Case study](https://rayklanderman.is-a.dev/projects/ai-health-chat) | Multilingual health-information PWA supporting text, voice, images, and structured reporting; multi-provider LLM integration and WhatsApp workflows in development. **Public beta, not a diagnostic service.** The earlier AI Health Assistant won **first place** at the PLP Class of 2024 graduate hackathon. |
+| **[AI Health Chat](https://aihealthchat.qzz.io/)** · [Case study](https://rayklanderman.is-a.dev/projects/ai-health-chat) | **Multilingual, multimodal AI health-information PWA** with **application-level Mixture-of-Experts (MoE)-inspired orchestration**. Task-aware routing uses specialized AI providers for conversation, image understanding, and structured reporting, with fallback paths and free-tier cost controls. Supports text, voice, images, read-aloud responses, multilingual interaction, and structured reports; WhatsApp workflows are in development. **Public beta, not a diagnostic service.** The earlier AI Health Assistant won **first place** at the PLP Class of 2024 graduate hackathon. |
 | **[Luminae](https://github.com/RealDevRay/luminae)** · [Live](https://luminae.qzz.io/) | Five-agent research and critique platform using Mistral OCR, FastAPI, Next.js, structured outputs, and API cost controls. |
 | **[EyeSense](https://github.com/RealDevRay/eyesense)** · [Case study](https://rayklanderman.is-a.dev/projects/eyesense) | Accessible Flutter visual-assistance prototype with OCR, speech interaction, and consent-based cloud vision. |
 | **[TutaLearn](https://tutalearn.qzz.io/)** · [Case study](https://rayklanderman.is-a.dev/projects/tutalearn) | Kenya CBC-focused learning platform with AI tutoring, assessments, progress tracking, and content workflows. |
@@ -131,12 +131,12 @@ My engineering work also includes APIs, cloud/serverless services, databases, Gi
 
 - **Languages & frameworks:** Python, TypeScript, JavaScript, Dart, SQL; React, Next.js, Node.js/Express, FastAPI, Flutter, REST APIs.
 - **ML & analytics:** pandas, NumPy, SciPy, scikit-learn, LightGBM, XGBoost, SVD, Jupyter, feature engineering, model evaluation, Power BI, Tableau.
-- **AI engineering:** MCP, LLM APIs, multimodal inference, OCR, retrieval-augmented generation, agent orchestration, structured outputs, evaluation; OpenAI, Gemini, Mistral, Groq, and xAI integrations.
+- **AI engineering:** MCP, LLM APIs, multimodal inference, **MoE-inspired task-aware model routing and provider fallbacks**, OCR, retrieval-augmented generation, agent orchestration, structured outputs, evaluation; OpenAI, Gemini, Mistral, Groq, and xAI integrations.
 - **Cloud & operations:** Google Cloud / Vertex AI, Oracle Cloud, Cloudflare Workers, n8n, Supabase, PostgreSQL, MySQL, Firebase, Redis, Docker, CI/CD, testing, API security, row-level security, and accessibility-aware design.
 
 ## Professional background & continued learning
 
-I build and deliver software independently. During a **2025 contract with the Pan-African Parliament**, I designed and developed a **Flutter/Dart application for Android and iOS**, integrating parliamentary information and event livestreaming. My wider professional background includes digital media strategy, technical delivery, and stakeholder communication.
+I build and deliver software independently, combining engineering with experience working alongside institutional teams and stakeholders. During a **2025 contract with the Pan-African Parliament**, I designed and developed a **Flutter/Dart application for Android and iOS** integrating parliamentary information and event livestreaming, alongside media and digital-content work. My broader experience includes **digital media strategy and technical delivery for the Office of the Nairobi Woman Representative**, with cross-functional coordination, public-facing communication, and real-world operational requirements informing how I build software.
 
 - **BSc Computer Science**, University of the People — in progress.
 - **Diploma in ICT**, Management University of Africa — Distinction.
