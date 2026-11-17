@@ -51,13 +51,72 @@ Built a **bilingual resident-engagement platform** with consent-led registration
 
 ## AI applications & software products
 
-| Project | Engineering focus |
-| :--- | :--- |
-| **[AI Health Chat](https://aihealthchat.qzz.io/)** · [Case study](https://rayklanderman.is-a.dev/projects/ai-health-chat) | **Multilingual, multimodal AI health-information PWA** with **application-level Mixture-of-Experts (MoE)-inspired orchestration**. Task-aware routing uses specialized AI providers for conversation, image understanding, and structured reporting, with fallback paths and free-tier cost controls. Supports text, voice, images, read-aloud responses, multilingual interaction, and structured reports; WhatsApp workflows are in development. **Public beta, not a diagnostic service.** The earlier AI Health Assistant won **first place** at the PLP Class of 2024 graduate hackathon. |
-| **[Luminae](https://github.com/RealDevRay/luminae)** · [Live](https://luminae.qzz.io/) | Five-agent research and critique platform using Mistral OCR, FastAPI, Next.js, structured outputs, and API cost controls. |
-| **[EyeSense](https://github.com/RealDevRay/eyesense)** · [Case study](https://rayklanderman.is-a.dev/projects/eyesense) | Accessible Flutter visual-assistance prototype with OCR, speech interaction, and consent-based cloud vision. |
-| **[TutaLearn](https://tutalearn.qzz.io/)** · [Case study](https://rayklanderman.is-a.dev/projects/tutalearn) | Kenya CBC-focused learning platform with AI tutoring, assessments, progress tracking, and content workflows. |
-| **[AutoResearcher](https://github.com/rayklanderman/CapstoneProject-Autoresearcher)** · [Demo](https://www.youtube.com/watch?v=s5Sktg34uC0) | Seven-agent research and report-generation pipeline using Google Vertex AI Agent Development Kit and Gemini. |
+### [AI Health Chat](https://aihealthchat.qzz.io/) · Multimodal AI health-information platform
+
+`Next.js / PWA` `Agentic workflows` `Multi-model routing` `MoE-inspired orchestration` `Voice & vision` `Cloudflare Workers AI`
+
+Built a **multilingual, multimodal health-information application** that brings together conversational assistance, image understanding, voice interaction, and structured health reports. Instead of sending every request through a single general-purpose model, the application uses an **application-level Mixture-of-Experts (MoE)-inspired design**: specialized AI providers are selected for different tasks, with routing and fallback paths that account for capability, availability, and free-tier constraints. This describes **system-level model orchestration**, not a claim that the underlying models implement a single neural-network MoE.
+
+- **Specialized AI workflows:** Groq-backed conversational assistance, Mistral-based image analysis, and Cloudflare Workers AI for report generation and supporting AI workflows. Provider routing and fallbacks are designed to maintain service when a preferred endpoint is unavailable; optional OpenRouter backup is part of the WhatsApp architecture.
+- **Multimodal experience:** text chat, voice input, camera/image uploads, read-aloud responses, structured reports, and multilingual interaction in **English, Kiswahili, Dutch, French, and Spanish**.
+- **Application engineering:** separate conversation histories, configurable response modes, interruption controls, image-upload flows, provider error handling, and a responsive PWA interface.
+- **Cross-channel expansion:** WhatsApp chat and image-assisted workflows are **in development**, with Cloudflare Workers AI as a planned primary provider for that channel and human-readable follow-up flows.
+
+**Public beta; a health-information tool, not a medical diagnostic service.** The earlier **AI Health Assistant won first place** at the PLP Class of 2024 graduate hackathon.
+
+[Live application](https://aihealthchat.qzz.io/) · [Architecture & case study](https://rayklanderman.is-a.dev/projects/ai-health-chat)
+
+### [Luminae](https://github.com/RealDevRay/luminae) · Multi-agent research analysis
+
+`Python` `FastAPI` `Next.js` `Mistral OCR` `Multi-agent orchestration` `Redis`
+
+Built a **five-agent research analysis and critique platform** that turns uploaded documents into structured, reviewable research outputs. Its pipeline combines document extraction and figure interpretation with specialist agents rather than treating an entire research paper as a single prompt.
+
+- **Five specialized agents:** Methodology Critic, Dataset Auditor, Experiment Designer, Synthesis Agent, and Grant Generator assess research methods, surface limitations, suggest follow-up work, and create structured outlines.
+- **Engineering architecture:** Mistral OCR and vision-enabled document interpretation feed a **FastAPI/Python** backend; independent analysis stages run concurrently with `asyncio.gather`, while downstream agents build on earlier results.
+- **Operational controls:** schema-guided structured output, Redis/Upstash-backed caching and budget safeguards, preflight cost estimation, and usage visibility in a **Next.js** dashboard.
+
+Designed as a **research decision-support tool** for the Mistral Worldwide Hackathon, not a replacement for peer review or independent source verification.
+
+[Source code](https://github.com/RealDevRay/luminae) · [Live application](https://luminae.qzz.io/) · [Demo](https://youtu.be/ODygWunOA6Y)
+
+### [EyeSense](https://github.com/RealDevRay/eyesense) · Accessible AI visual assistance
+
+`Flutter` `Dart` `Computer vision` `OCR` `Speech interaction` `Accessibility`
+
+Developed a **Flutter-based Android prototype for blind and low-vision users** focused on a simple interaction: trigger the camera, capture the immediate surroundings, and hear a useful description. The project explores how multimodal AI can serve an accessibility need through a low-friction mobile interface.
+
+- **Accessible interaction:** voice-oriented controls and a volume-button-triggered snapshot flow designed to reduce reliance on complex on-screen navigation.
+- **Hybrid perception:** on-device/offline OCR for text-related tasks alongside consent-based cloud vision for scene description.
+- **Practical mobile engineering:** camera integration, speech output, cloud API integration, and user-centered handling of sensitive visual input.
+
+This is a **prototype**, not a substitute for a mobility aid or professional assistive service.
+
+[Source code](https://github.com/RealDevRay/eyesense) · [Case study](https://rayklanderman.is-a.dev/projects/eyesense)
+
+### [TutaLearn](https://tutalearn.qzz.io/) · AI-supported Kenyan learning platform
+
+`Full-stack development` `AI tutoring` `Education` `Assessments` `Progress tracking`
+
+Built **TutaLearn** around Kenya's **Competency-Based Curriculum (CBC)**, with learning support spanning **Grades 1–12**. It combines topic-based practice with AI assistance so learners can move between structured educational content and interactive explanations.
+
+- **Learning workflows:** topic quizzes, assessments and exam-style practice, with progress tracking across learning activities.
+- **AI assistance:** contextual explanations and tutoring to support practice and understanding rather than replacing the underlying learning material.
+- **Product engineering:** learner-facing flows, curriculum organization, and access models designed around practical affordability and usability.
+
+[Live application](https://tutalearn.qzz.io/) · [Case study](https://rayklanderman.is-a.dev/projects/tutalearn)
+
+### [AutoResearcher](https://github.com/rayklanderman/CapstoneProject-Autoresearcher) · Seven-agent research and report pipeline
+
+`Python` `Vertex AI ADK` `Gemini` `Tavily` `Matplotlib` `LaTeX`
+
+Developed a **seven-agent research pipeline** using Google's **Agent Development Kit (ADK)** and Gemini models to coordinate source gathering, verification, chart creation, structured writing, and document compilation.
+
+- **Role-based orchestration:** a Supervisor coordinates Researcher, FactChecker, Visualizer, Writer, Formatter, and Compiler stages, with shared workflow state.
+- **Tool-enabled research:** Tavily supplies source retrieval, Python/Matplotlib generates visualizations, and Pandoc/LaTeX assembles a formatted report.
+- **End-to-end deliverable:** transforms a research prompt into a multi-section, citation-oriented PDF workflow; generated claims and citations still require human verification.
+
+[Source code](https://github.com/rayklanderman/CapstoneProject-Autoresearcher) · [Video demo](https://www.youtube.com/watch?v=s5Sktg34uC0)
 
 **Other projects:** [PostShifter Pro](https://postshifterpro.qzz.io/) · [Live Interviewer](https://liveinterviewer.vercel.app/) · [Kazi Connect](https://kazi-connect.vercel.app/) · [SerenityAI](https://serenityai.qzz.io/) · [Codebase Genius](https://github.com/rayklanderman/jaseci-proj) · [Weru Digital](https://github.com/rayklanderman/weru_digital)
 
@@ -150,3 +209,4 @@ I build and deliver software independently, combining engineering with experienc
 **Two GitHub accounts, one body of work:** [@rayklanderman](https://github.com/rayklanderman) is my primary professional profile; [@RealDevRay](https://github.com/RealDevRay) hosts additional projects including EyeSense, Luminae, and Sauti Mtaani Nairobi.
 
 **More:** [Portfolio](https://rayklanderman.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/rayklanderman/) · [Project demos](https://www.youtube.com/playlist?list=PLJa0i7fpyLmA) · [Technical writing](https://medium.com/@raymondklanderman) · [Email](mailto:info@devray.qzz.io)
+
